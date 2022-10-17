@@ -1,0 +1,2 @@
+# Data-Exploration-and-Visualisation-
+This report uses a dataset of customers from a wholesale distributor that describes their annual expenditure in monetary units (m.u.) on different product categories. The dataset contains six variables and 440 observations; table 1 includes the names of the six variables and their descriptions for this dataset. The study's objectives for this report are to identify outliers in the dataset, deal with missing values, reduce the dimensionality of the data and cluster the data using the most appropriate method.
